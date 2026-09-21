@@ -8,9 +8,9 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: 'https://github.com/Shivaji1487/mlops-gitops.git'
+    repoURL: 'https://github.com/Shivaji1487/mlops-gitopsv3devstagingprod.git'
     targetRevision: HEAD
-    path: 'charts/ml-service'
+    path: 'chart/ml-service'
     helm:
       valueFiles:
         - values-staging.yaml

@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: 'https://github.com/Shivaji1487/mlops-gitospv2.git'
+    repoURL: 'https://github.com/Shivaji1487/mlops-gitopsv3devstagingprod.git'
     targetRevision: HEAD
     path: chart/ml-service
     helm:
