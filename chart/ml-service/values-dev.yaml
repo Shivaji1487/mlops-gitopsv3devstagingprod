@@ -2,7 +2,7 @@ replicaCount: 1
 
 image:
   repository: sshivaji555/mlops-app
-  tag: 'v1.0.5'
+  tag: 'v1.0.8'
   pullPolicy: Always
 
 service:
